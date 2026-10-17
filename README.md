@@ -13,7 +13,7 @@ It combines an **offline-first citizen emergency interface**, **BLE mesh communi
 | Resource                  | Link                                      |
 | ------------------------- | ----------------------------------------- |
 | 🚀 Live Rescuer Dashboard | https://pulse-scout-nu.vercel.app         |
-| 💻 GitHub Repository      | https://github.com/sharmii0608/PulseScout |
+| 💻 GitHub Repository      | https://github.com/janesa123/Pulsescout |
 
 ---
 
