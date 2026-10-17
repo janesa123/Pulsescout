@@ -648,7 +648,7 @@ The project focuses on how modern web and mobile technologies can be explored to
 
 GitHub:
 
-https://github.com/sharmii0608
+https://github.com/janesa123
 
 ---
 
