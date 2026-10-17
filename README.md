@@ -644,7 +644,7 @@ The project focuses on how modern web and mobile technologies can be explored to
 
 # 👩‍💻 Author
 
-**Sharmila**
+**Janessa**
 
 GitHub:
 
